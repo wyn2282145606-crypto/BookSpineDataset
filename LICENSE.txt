@@ -1,0 +1,24 @@
+License
+
+Copyright (c) 2026 Yanan Wu and Zhigang Lian
+
+This dataset is released for academic research and reproducibility purposes.
+
+You are allowed to:
+
+1. Use the dataset for non-commercial academic research.
+2. Use the dataset to reproduce experiments reported in the corresponding paper.
+3. Modify or process the dataset for research purposes.
+4. Share the dataset with proper attribution.
+
+You are not allowed to:
+
+1. Use the dataset for commercial purposes without permission.
+2. Redistribute the dataset without proper attribution.
+3. Claim ownership of the dataset or its annotations.
+
+If you use this dataset in your research, please cite the corresponding paper after publication.
+
+The dataset is provided as is, without warranty of any kind. The authors are not responsible for any consequences arising from the use of this dataset.
+
+For permission requests or questions, please contact the authors.
