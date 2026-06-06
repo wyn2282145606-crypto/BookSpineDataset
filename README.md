@@ -10,7 +10,7 @@ Due to the file size of the image data, the complete dataset is not stored direc
 The full dataset, including images, labels, split files, and SpineText-40 annotations, is provided as a compressed archive:
 
 ```text
-spine_datasets.zip
+BookSpineDataset_v1.0.zip
 ```
 
 Please download the complete dataset from the Releases page of this repository.
